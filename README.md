@@ -42,5 +42,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Commons Clinic is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Commons Clinic is a Santa Monica, California physician-led specialty care group founded in 2021.
+It operates multi-specialty musculoskeletal clinics across Southern California — Santa Monica,
+Marina del Rey, Beverly Hills, Torrance, Westlake Village, Lakewood and two Long Beach sites —
+plus its own ambulatory surgery center, the Marina Orthopedic & Spine Institute. The group treats
+orthopedic, spine, sports medicine, joint replacement and chronic pain conditions with on-site
+imaging, physical and occupational therapy, injections and surgery under one roof, and has
+extended into a bundled preventive diagnostics program marketed as Wholebody.
+
+**No API surface.** Commons Clinic is a care delivery organization, not an API provider. It
+publishes no developer program, no API documentation, and no machine-readable API contract. The
+only machine-readable artifacts on its host are a Rank Math generated `/llms.txt` (captured here)
+and the stock WordPress core REST API behind its marketing site. See `x-coverage` in `apis.yml`
+for the probe evidence.
+
+- https://commonsclinic.com/
+- https://www.linkedin.com/company/commons-clinic
+- https://www.nasdaqprivatemarket.com/company/commons-clinic/
