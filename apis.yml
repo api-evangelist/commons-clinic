@@ -14,6 +14,17 @@ description: 'Commons Clinic is a Santa Monica, California physician-led special
   a Rank Math generated llms.txt and the stock WordPress core REST API behind its marketing
   site.'
 url: https://raw.githubusercontent.com/api-evangelist/commons-clinic/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://commonsclinic.com/wp-content/uploads/2024/09/commonspreview-1024x425.jpg
 x-type: company
 x-source: harvest:secondary-market
